@@ -1,0 +1,22 @@
+{
+  "name": "semana-16",
+  "version": "1.0.0",
+  "description": "APIREST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoDelValle77/RESTFull_API.git"
+  },
+  "author": "Federico Del Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoDelValle77/RESTFull_API/issues"
+  },
+  "homepage": "https://github.com/FedericoDelValle77/RESTFull_API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
