@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "APIREST",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/FedericoDelValle77/RESTFull_API#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
   }
 }
